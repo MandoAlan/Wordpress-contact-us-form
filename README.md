@@ -23,4 +23,4 @@ To add the contact form to a page or post, use the following shortcode:
 ```plaintext
 [custom_contact_form]
 
-We have recently tested it on our client Sassa status check website.
+We have recently tested it on our client [Sassa status check](https://easystatuscheck.com/) website. 
