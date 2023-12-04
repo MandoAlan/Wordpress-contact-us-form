@@ -2,7 +2,8 @@
 
 ## Description
 
-The Custom Contact Form WordPress Plugin is a simple and customizable solution for adding a contact form to your WordPress website. This plugin allows users to easily integrate a contact form into their pages or posts using a shortcode.
+The Custom Contact Form WordPress Plugin is a simple and customizable solution for adding a contact form to your WordPress website. This plugin allows users to easily integrate a contact form into their pages or posts using a shortcode. We have recently tested it on our client [Sassa status check](https://easystatuscheck.com/) website. 
+
 
 ## Features
 
@@ -23,6 +24,5 @@ To add the contact form to a page or post, use the following shortcode:
 ```plaintext
 [custom_contact_form]
 
-We have recently tested it on our client [Sassa status check](https://easystatuscheck.com/) website. 
 
-Visit our [website](https://www.yourwebsite.com) for more information.
+
